@@ -1,6 +1,6 @@
 #Change Log
 
-Team membership:  AB (Captain) & CD (Mate)  
+Team membership:  Mark Ho (Captain) & Vinz Balitaan (Mate)  
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
@@ -29,5 +29,8 @@ Release Date: Jul 26, 2027
 
     -   slovenian (AB)
     -   swedish
+    
+## Changelog
 
+- Mark: Edited changelog.md
 
