@@ -13,6 +13,14 @@ Release Date: Jul 26, 2027
 -   controllers
 
     -   serbian (AB)
+    -   Created controllers for About.php and Gallery.php (Vinz)
+
+-   models
+
+    -
+
+-   view
+    -   Created about.php, gallery.php, welcome.php (Vinz)
     
 ## Updated Components
 
@@ -20,6 +28,7 @@ Release Date: Jul 26, 2027
 
     -   german (CD)
     -   hindi (CD)
+    -   Edited Welcome.php controller (Vinz)
 
 -   models
 
@@ -33,4 +42,5 @@ Release Date: Jul 26, 2027
 ## Changelog
 
 - Mark: Edited changelog.md
+- Vinz: Completed "Static to Trivial CI Website Conversion"
 
