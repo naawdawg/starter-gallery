@@ -29,18 +29,22 @@ Release Date: Jul 26, 2027
     -   german (CD)
     -   hindi (CD)
     -   Edited Welcome.php controller (Vinz)
-
+    -   updated Welcome.php (Mark)
 -   models
 
     -   italian (AB)
-
+-   core
+    -  edited MY_Controller.php (Mark)
+    
 -   views
 
     -   slovenian (AB)
     -   swedish
+    -   edited template.php (Mark)
+    -   updated welcome.php (Mark)
     
 ## Changelog
 
 - Mark: Edited changelog.md
 - Vinz: Completed "Static to Trivial CI Website Conversion"
-
+- Mark: Completed "Trivial CI to Basic CI"
