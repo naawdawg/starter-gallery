@@ -11,40 +11,39 @@ Release Date: Jul 26, 2027
 ## New Components
 
 -   controllers
-
-    -   serbian (AB)
     -   Created controllers for About.php and Gallery.php (Vinz)
 
 -   models
-
-    -
+    -   Created Images.php model (Vinz)
 
 -   view
     -   Created about.php, gallery.php, welcome.php (Vinz)
+    -   Created _cell.php (Vinz)
     
 ## Updated Components
 
 -   controllers
-
-    -   german (CD)
-    -   hindi (CD)
     -   Edited Welcome.php controller (Vinz)
     -   updated Welcome.php (Mark)
--   models
+    -   Edited Gallery.php/Welcome.php (Vinz)
 
-    -   italian (AB)
+-   models
+    -   
+
 -   core
     -  edited MY_Controller.php (Mark)
     
 -   views
-
-    -   slovenian (AB)
-    -   swedish
     -   edited template.php (Mark)
     -   updated welcome.php (Mark)
+    -   Edited gallery.php/welcome.php (Vinz)
+
+-   config
+    -   Edited database.php/autoload.php (Vinz)
     
 ## Changelog
 
 - Mark: Edited changelog.md
 - Vinz: Completed "Static to Trivial CI Website Conversion"
 - Mark: Completed "Trivial CI to Basic CI"
+- Vinz: Completed "Basic CI to Good CI Website Conversion"
